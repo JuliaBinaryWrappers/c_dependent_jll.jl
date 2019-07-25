@@ -1,0 +1,8 @@
+name = "c_dependent_jll"
+uuid = "2a74c915-c6ce-5d38-9736-2ca42180b3c9"
+version = "1.2.3+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+c_simple_jll = "b078fad2-87bf-50cd-80f2-782f4d4db074"
