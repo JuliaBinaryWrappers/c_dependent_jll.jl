@@ -12,10 +12,10 @@ os = "linux"
     url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent+v1.2.3+0/c_dependent.v1.2.3.x86_64-linux-gnu-libgfortran5-libstdcxx26-cxx11.tar.gz"
 [[c_dependent]]
 arch = "x86_64"
-git-tree-sha1 = "345e185cee2354c96a2ebd7d51be0858d68c52ee"
+git-tree-sha1 = "04865bd598630299b8f4d0705d727fa1425b8834"
 libc = "glibc"
 os = "linux"
 
     [[c_dependent.download]]
-    sha256 = "6466dd6ae7564f0c8ce57f82918258017a739e3578b397ebe9f5f26d5c668980"
+    sha256 = "8696b5bc63974d26674ad801d0003373b7e823a6a52121e484398317b2dee4e2"
     url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent+v1.2.3+0/c_dependent.v1.2.3.x86_64-linux-gnu.tar.gz"
