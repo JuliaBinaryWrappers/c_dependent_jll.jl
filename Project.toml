@@ -1,5 +1,5 @@
 name = "c_dependent_jll"
-uuid = "2a74c915-c6ce-5d38-9736-2ca42180b3c9"
+uuid = "685779e8-4606-5f3f-a762-b42685ed8c24"
 version = "1.2.3+0"
 
 [deps]
