@@ -1,0 +1,113 @@
+[[c_dependent]]
+arch = "powerpc64le"
+git-tree-sha1 = "cc5d112d5a312d629cf0525d1d8a02e16d6d698a"
+libc = "glibc"
+os = "linux"
+
+    [[c_dependent.download]]
+    sha256 = "dea8b36debe87d30c2a0f6b5f73e8f31448371c390711aa7742151b15e8f07ad"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.powerpc64le-linux-gnu.tar.gz"
+[[c_dependent]]
+arch = "i686"
+git-tree-sha1 = "118fbd1fcb31b2d6ac08fa8e915a1c4ac1341020"
+libc = "glibc"
+os = "linux"
+
+    [[c_dependent.download]]
+    sha256 = "3c4e4aa80eff7d07fc4ceb5864afd22ae9a3d56062496cff6fb941c7417a004d"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.i686-linux-gnu.tar.gz"
+[[c_dependent]]
+arch = "armv7l"
+git-tree-sha1 = "11e777344e89b669618224f3d7b215ad86a1062b"
+libc = "glibc"
+os = "linux"
+
+    [[c_dependent.download]]
+    sha256 = "c42be4154b6342e7088e1216342e119f3504ba6e4685ff068bbdc730c832c0a2"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.arm-linux-gnueabihf.tar.gz"
+[[c_dependent]]
+arch = "x86_64"
+git-tree-sha1 = "3f17bc4891a6bc9ae9b153967c4fcb6753a7d161"
+os = "freebsd"
+
+    [[c_dependent.download]]
+    sha256 = "316f655dccdf41f3a160b8391c41b6bf4746f9faebc9a5ef7d42fb1837fe8026"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.x86_64-unknown-freebsd11.1.tar.gz"
+[[c_dependent]]
+arch = "x86_64"
+git-tree-sha1 = "ed3504a9681595a7e1d3e8330317bb6e1625740a"
+os = "windows"
+
+    [[c_dependent.download]]
+    sha256 = "2cce814e378a27d48fd6aff9131254fa45a3cd96eac0ff77419aba2da9465ceb"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.x86_64-w64-mingw32.tar.gz"
+[[c_dependent]]
+arch = "x86_64"
+git-tree-sha1 = "7bc7674280f9a66c3bca93be5a6114a1cf0b2166"
+libc = "musl"
+os = "linux"
+
+    [[c_dependent.download]]
+    sha256 = "d31c2371be9a62307ad01df55ab32a1d80465f9358914c6f41c871353608b7c6"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.x86_64-linux-musl.tar.gz"
+[[c_dependent]]
+arch = "i686"
+git-tree-sha1 = "d700a5cd4b66d074f6dade58e48d522845c8c02b"
+os = "windows"
+
+    [[c_dependent.download]]
+    sha256 = "e92d23e54e7cd1cadc4dff2e8c19a8e7fa2e0d3d8aef768b6269b7d3ae9acbca"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.i686-w64-mingw32.tar.gz"
+[[c_dependent]]
+arch = "aarch64"
+git-tree-sha1 = "5f52153e4492fd4f476e3679088f993fd6abcc5d"
+libc = "glibc"
+os = "linux"
+
+    [[c_dependent.download]]
+    sha256 = "4b8a9a4bcc4bcc028d3fd2f1279b8c82f90f2644c2d6d8d03300080e3ce26b95"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.aarch64-linux-gnu.tar.gz"
+[[c_dependent]]
+arch = "x86_64"
+git-tree-sha1 = "11a36e3c9e13a5b318be5550da799b743ecd71b6"
+os = "macos"
+
+    [[c_dependent.download]]
+    sha256 = "4d3b9ae221cb229ab04ee3a1c10ced4bb690232220516ff0b264baebc63ad95a"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.x86_64-apple-darwin14.tar.gz"
+[[c_dependent]]
+arch = "aarch64"
+git-tree-sha1 = "536534b696e57bfa809e5de166154ced452a8aa4"
+libc = "musl"
+os = "linux"
+
+    [[c_dependent.download]]
+    sha256 = "ab29c9659150914f6ae2ba54ffc6e93f6e7dff2f7eab1832338228bf2d733152"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.aarch64-linux-musl.tar.gz"
+[[c_dependent]]
+arch = "x86_64"
+git-tree-sha1 = "6ba13945fb1d96a4a37d8b98ddc86a0914945fb1"
+libc = "glibc"
+os = "linux"
+
+    [[c_dependent.download]]
+    sha256 = "3207d54ce12f65f7f8ff61e0326df83a27ce9203f5dbe7bde90b5f8853b2247c"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.x86_64-linux-gnu.tar.gz"
+[[c_dependent]]
+arch = "armv7l"
+git-tree-sha1 = "073c9f0740459f2a01a5c43140d32ef2b6046c23"
+libc = "musl"
+os = "linux"
+
+    [[c_dependent.download]]
+    sha256 = "a426f45fe89d0841d13839f0c2c25c40c3db9ada2a6e808735beefc0225e932d"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.arm-linux-musleabihf.tar.gz"
+[[c_dependent]]
+arch = "i686"
+git-tree-sha1 = "329bd6d3531ef1762d4106292ae240a7b068ad48"
+libc = "musl"
+os = "linux"
+
+    [[c_dependent.download]]
+    sha256 = "34c69a271c7835068f0c27161ec819552f0782128aca7fa5a53497828a26cd7b"
+    url = "https://github.com/JuliaBinaryWrappers/c_dependent_jll.jl/releases/download/c_dependent-v1.2.3+0/c_dependent.v1.2.3.i686-linux-musl.tar.gz"
